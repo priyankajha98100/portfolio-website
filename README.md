@@ -1,2 +1,1 @@
-# portfolio-website
-My personal portfolio website built with HTML, CSS and JavaScript.
+A responsive personal portfolio website showcasing my skills, projects, education, and contact information. Built using HTML, CSS, and JavaScript.
